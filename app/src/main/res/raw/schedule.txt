@@ -1,0 +1,403 @@
+{
+    "data": [
+        {
+            "day": "monday",
+            "start": {
+                "hour": 8,
+                "minute": 0
+            },
+            "end": {
+                "hour": 9,
+                "minute": 30
+            },
+            "week": "T",
+            "uv": "CHMA01",
+            "type": "CM",
+            "room": "N101"
+        },
+        {
+            "day": "monday",
+            "start": {
+                "hour": 10,
+                "minute": 0
+            },
+            "end": {
+                "hour": 12,
+                "minute": 0
+            },
+            "week": "T",
+            "uv": "SI10",
+            "type": "TD",
+            "room": "S104"
+        },
+        {
+            "day": "monday",
+            "start": {
+                "hour": 14,
+                "minute": 0
+            },
+            "end": {
+                "hour": 15,
+                "minute": 30
+            },
+            "week": "T",
+            "uv": "MATH01",
+            "type": "CM",
+            "room": "C001"
+        },
+        {
+            "day": "tuesday",
+            "start": {
+                "hour": 10,
+                "minute": 0
+            },
+            "end": {
+                "hour": 11,
+                "minute": 30
+            },
+            "week": "T",
+            "uv": "SI10",
+            "type": "CM",
+            "room": "N101"
+        },
+        {
+            "day": "tuesday",
+            "start": {
+                "hour": 13,
+                "minute": 0
+            },
+            "end": {
+                "hour": 16,
+                "minute": 0
+            },
+            "week": "B",
+            "uv": "CHMA01",
+            "type": "TP",
+            "room": "B007"
+        },
+        {
+            "day": "wednesday",
+            "start": {
+                "hour": 8,
+                "minute": 0
+            },
+            "end": {
+                "hour": 9,
+                "minute": 30
+            },
+            "week": "T",
+            "uv": "MATH01",
+            "type": "TD",
+            "room": "B204"
+        },
+        {
+            "day": "wednesday",
+            "start": {
+                "hour": 9,
+                "minute": 30
+            },
+            "end": {
+                "hour": 11,
+                "minute": 0
+            },
+            "week": "T",
+            "uv": "CHMA01",
+            "type": "TD",
+            "room": "B205"
+        },
+        {
+            "day": "wednesday",
+            "start": {
+                "hour": 14,
+                "minute": 0
+            },
+            "end": {
+                "hour": 15,
+                "minute": 30
+            },
+            "week": "T",
+            "uv": "MATH01",
+            "type": "CM",
+            "room": "C001"
+        },
+        {
+            "day": "thursday",
+            "start": {
+                "hour": 8,
+                "minute": 0
+            },
+            "end": {
+                "hour": 9,
+                "minute": 30
+            },
+            "week": "T",
+            "uv": "CHMA01",
+            "type": "TD",
+            "room": "B205"
+        },
+        {
+            "day": "thursday",
+            "start": {
+                "hour": 10,
+                "minute": 0
+            },
+            "end": {
+                "hour": 13,
+                "minute": 0
+            },
+            "week": "T",
+            "uv": "TN04",
+            "type": "TP",
+            "room": "J002"
+        },
+        {
+            "day": "friday",
+            "start": {
+                "hour": 8,
+                "minute": 0
+            },
+            "end": {
+                "hour": 9,
+                "minute": 30
+            },
+            "week": "T",
+            "uv": "MATH01",
+            "type": "TD",
+            "room": "B208"
+        },
+        {
+            "day": "friday",
+            "start": {
+                "hour": 14,
+                "minute": 0
+            },
+            "end": {
+                "hour": 15,
+                "minute": 30
+            },
+            "week": "T",
+            "uv": "CHMA01",
+            "type": "CM",
+            "room": "A001"
+        },
+        {
+            "day": "sathurday",
+            "start": {
+                "hour": 10,
+                "minute": 0
+            },
+            "end": {
+                "hour": 12,
+                "minute": 0
+            },
+            "week": "B",
+            "uv": "MATH01",
+            "type": "TP",
+            "room": "A203"
+        }
+    ],
+    "http": {
+        "status": 200,
+        "message": "OK",
+        "_note": "http and response fields are deprecated"
+    },
+    "response": {
+        "data": [
+            {
+                "day": "monday",
+                "start": {
+                    "hour": 8,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 9,
+                    "minute": 30
+                },
+                "week": "T",
+                "uv": "CHMA01",
+                "type": "CM",
+                "room": "N101"
+            },
+            {
+                "day": "monday",
+                "start": {
+                    "hour": 10,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 12,
+                    "minute": 0
+                },
+                "week": "T",
+                "uv": "SI10",
+                "type": "TD",
+                "room": "S104"
+            },
+            {
+                "day": "monday",
+                "start": {
+                    "hour": 14,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 15,
+                    "minute": 30
+                },
+                "week": "T",
+                "uv": "MATH01",
+                "type": "CM",
+                "room": "C001"
+            },
+            {
+                "day": "tuesday",
+                "start": {
+                    "hour": 10,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 11,
+                    "minute": 30
+                },
+                "week": "T",
+                "uv": "SI10",
+                "type": "CM",
+                "room": "N101"
+            },
+            {
+                "day": "tuesday",
+                "start": {
+                    "hour": 13,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 16,
+                    "minute": 0
+                },
+                "week": "B",
+                "uv": "CHMA01",
+                "type": "TP",
+                "room": "B007"
+            },
+            {
+                "day": "wednesday",
+                "start": {
+                    "hour": 8,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 9,
+                    "minute": 30
+                },
+                "week": "T",
+                "uv": "MATH01",
+                "type": "TD",
+                "room": "B204"
+            },
+            {
+                "day": "wednesday",
+                "start": {
+                    "hour": 9,
+                    "minute": 30
+                },
+                "end": {
+                    "hour": 11,
+                    "minute": 0
+                },
+                "week": "T",
+                "uv": "CHMA01",
+                "type": "TD",
+                "room": "B205"
+            },
+            {
+                "day": "wednesday",
+                "start": {
+                    "hour": 14,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 15,
+                    "minute": 30
+                },
+                "week": "T",
+                "uv": "MATH01",
+                "type": "CM",
+                "room": "C001"
+            },
+            {
+                "day": "thursday",
+                "start": {
+                    "hour": 8,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 9,
+                    "minute": 30
+                },
+                "week": "T",
+                "uv": "CHMA01",
+                "type": "TD",
+                "room": "B205"
+            },
+            {
+                "day": "thursday",
+                "start": {
+                    "hour": 10,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 13,
+                    "minute": 0
+                },
+                "week": "T",
+                "uv": "TN04",
+                "type": "TP",
+                "room": "J002"
+            },
+            {
+                "day": "friday",
+                "start": {
+                    "hour": 8,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 9,
+                    "minute": 30
+                },
+                "week": "T",
+                "uv": "MATH01",
+                "type": "TD",
+                "room": "B208"
+            },
+            {
+                "day": "friday",
+                "start": {
+                    "hour": 14,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 15,
+                    "minute": 30
+                },
+                "week": "T",
+                "uv": "CHMA01",
+                "type": "CM",
+                "room": "A001"
+            },
+            {
+                "day": "sathurday",
+                "start": {
+                    "hour": 10,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 12,
+                    "minute": 0
+                },
+                "week": "B",
+                "uv": "MATH01",
+                "type": "TP",
+                "room": "A203"
+            }
+        ]
+    }
+}
